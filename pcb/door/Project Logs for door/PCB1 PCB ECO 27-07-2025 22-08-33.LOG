@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=RL1-1
+Removed Pin From Net: NetName=NetJ1_1 Pin=RL1-2
+Removed Pin From Net: NetName=VCC Pin=RL1-5
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=RL1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=RL1-3
+Added Pin To Net: NetName=GND Pin=RL1-5
+Added Room: Name=Sheet1

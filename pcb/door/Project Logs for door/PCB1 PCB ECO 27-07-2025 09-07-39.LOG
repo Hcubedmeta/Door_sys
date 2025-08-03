@@ -1,0 +1,15 @@
+Added Component: Designator=JP?(JP7)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ESP32-BOARD38-900)
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJP?_1 Pin=JP?-1
+Added Pin To Net: NetName=NetJP?_1 Pin=U?-28
+Added Net: Name=NetJP?_1
+Added Pin To Net: NetName=NetJP?_2 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_2 Pin=U?-29
+Added Net: Name=NetJP?_2
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

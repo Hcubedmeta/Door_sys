@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=RELAY Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=RELAY Pin=R1-1
+Removed Pin From Net: NetName=RELAY Pin=RL1-4
+Removed Pin From Net: NetName=GND Pin=RL1-5
+Removed Pin From Net: NetName=buzzer Pin=U1-14
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=RELAY Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=RL1-5
+Added Pin To Net: NetName=buzzer Pin=U1-29
+Added Pin To Net: NetName=led Pin=R1-1
+Added Pin To Net: NetName=led Pin=U1-21
+Added Net: Name=led
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=RL1-4
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 C1815
+Added Room: Name=Sheet1
